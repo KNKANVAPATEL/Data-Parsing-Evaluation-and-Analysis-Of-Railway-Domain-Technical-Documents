@@ -31,16 +31,16 @@ To ensure comprehensive data extraction, multiple PDF parsing libraries were emp
 
 **Table Extraction**
 
-**5.Camelot** – Extracts tables from PDFs (works best with PDFs following tabular structure).  
-**6. pdfplumber** – Extracts tables along with text content.  
-**7. Tabula-py** – Extracts tables using Java-based Tabula.  
+5.Camelot – Extracts tables from PDFs (works best with PDFs following tabular structure).  
+6. pdfplumber – Extracts tables along with text content.  
+7. Tabula-py – Extracts tables using Java-based Tabula.  
 
 **Optical Character Recognition (OCR) for Scanned PDFs**
 
-8. Tesseract OCR (pytesseract) – Converts scanned images of text into machine-readable text.  
-9.pdf2image – Converts PDF pages into images for OCR processing.  
+8. Tesseract OCR (pytesseract) – Converts scanned images of text into machine-readable text.
+9.  pdf2image – Converts PDF pages into images for OCR processing.
 10. OCRmyPDF – Enhances PDFs by adding a text layer using OCR.
-11. 
+    
 **Metadata and Annotations Extraction**
 
 11.PyMuPDF (fitz)– Extracts metadata, text, images, and annotations.  
