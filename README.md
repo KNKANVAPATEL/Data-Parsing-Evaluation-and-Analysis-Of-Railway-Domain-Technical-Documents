@@ -55,10 +55,15 @@ To ensure comprehensive data extraction, multiple PDF parsing libraries were emp
 **Libraries Used In our project:**
 
 **PyMuPDF**
+
 **pdfplumber**
+
 **Camelot**
+
 **Tabula**
+
 **ocrmypdf**
+
 **reportlab**
 
 **4.2 Classification Scenario for Libraries**
