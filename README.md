@@ -1,19 +1,27 @@
 # Data-Parsing-Evaluation-and-Analysis-Of-Railway-Domain-Technical-Documents
 **1. Introduction**
+
 The railway sector generates a significant amount of technical documentation essential for maintenance, operations, safety protocols, and infrastructure management. Efficient parsing, evaluation, and analysis of these documents help extract valuable insights, automate data extraction processes, and improve decision-making.
 This project focuses on developing a system to parse, evaluate, and analyze technical documents related to the railway domain by leveraging advanced PDF parsing techniques, feature engineering methods, and data visualization tools.
+
 **2. Objectives**
+
 •	To parse and extract meaningful data from railway domain technical PDF documents.
 •	To evaluate and compare different PDF parsing libraries for optimal extraction.
 •	To analyze the extracted data to identify key features, trends, and patterns.
 •	To perform feature engineering to enhance data quality and usability.
 •	To visualize the analyzed data effectively using Power BI for better insight and decision-making.
+
 **3. Data Collection**
+
 •	The primary data source consists of multiple technical documents in PDF format related to the railway domain, including manuals, reports, specifications and also RFP documents.
 **4. Methodology**
+
 **4.1 PDF Parsing Libraries Used**
+
 To ensure comprehensive data extraction, multiple PDF parsing libraries were employed. The selection and evaluation of these libraries were based on their ability to accurately extract text, handle complex formatting, and preserve the document structure.
 **Pdf Parsing Libraries Used:**
+
 **1. PyPDF2** – Extracts text, metadata, and merges/splits PDFs.  
 **2. pdfplumber** – Extracts text while preserving layout and table structures.  
 **3. pdfminer.six** – Extracts text and metadata with precise control.  
