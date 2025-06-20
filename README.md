@@ -115,7 +115,8 @@ The processed and feature-engineered data was imported into Power BI, a powerful
 
 •	Identify patterns and insights to support railway domain decision-making
 
-![image](https://github.com/user-attachments/assets/89bd8519-5c81-46d2-b103-fae679006179)
+![image](https://github.com/user-attachments/assets/f651104a-9f12-497f-be79-aa3b90cca29e)
+
 
 **6. Conclusion**
 
